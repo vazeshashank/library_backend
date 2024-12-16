@@ -1,0 +1,7 @@
+Django==4.2
+djangorestframework==3.14.0
+django-filter==23.2
+drf-yasg==1.21.5  # Optional: For API documentation
+celery==5.3.1
+redis==5.0.0
+
